@@ -11,3 +11,7 @@ end)
 LegitTechs:CreateButton("KYOTO macro (Beta)", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Zuriyx/Techs/refs/heads/main/KYOTO%20macro.txt"))()
 end)
+
+LegitTechs:CreateButton("Basic Twisted", function()
+    loadstring(game:HttpGet("https://github.com/Zuriyx/Techs/raw/refs/heads/main/Basic%20Twisted%20Tech.txt"))()
+end)
